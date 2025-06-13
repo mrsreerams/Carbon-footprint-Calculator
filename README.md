@@ -44,7 +44,7 @@ project/
 🛠️ How to Run Locally
 Clone the repository:
 
-git clone https://github.com/your-username/carbon-footprint-calculator.git
+git clone https://github.com/mrsreerams/Carbon-footprint-Calculator.git
 cd carbon-footprint-calculator
 Open index.html in your browser. That’s it!
 
